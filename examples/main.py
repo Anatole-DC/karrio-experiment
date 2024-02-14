@@ -1,4 +1,4 @@
-from python_template import hello_world
+from karrio_experiment import hello_world
 
 
 def main():

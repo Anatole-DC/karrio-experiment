@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "python_template"
+name = "karrio_experiment"
 version = "0.0.0"
-description = "Base template repository for python projects."
-authors = ["Your Name <your-email@gmail.com>"]
+description = "A small test of the Karrio python SDK."
+authors = ["Anatole-DC <your-email@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

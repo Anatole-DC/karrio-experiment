@@ -1,7 +1,7 @@
 {
   "configurations": [
     {
-      "name": "python_template",
+      "name": "karrio_experiment",
       "type": "python",
       "request": "launch",
       "program": "${workspaceFolder}/examples/main.py",
